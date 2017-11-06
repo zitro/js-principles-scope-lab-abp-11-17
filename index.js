@@ -8,14 +8,14 @@ customerName = customerName.toUpperCase();
 }
 
 function setBestCustomer(){
-var bestCustomer;
+var bestCustomer = 'not bob';
 
 }
 
-function overwriteBestCustomer(){
+/*function overwriteBestCustomer(){
   bestCustomer = 'Tom';
 }
 
 function changeLeastFavoriteCustomer(leastFavoriteCustomer){
   leastFavoriteCustomer = 'Eric';
-}
+}*/
