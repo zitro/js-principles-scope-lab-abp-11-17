@@ -12,10 +12,10 @@ bestCustomer = 'not bob';
 
 }
 
-/*function overwriteBestCustomer(){
+function overwriteBestCustomer(){
   bestCustomer = 'Tom';
 }
 
 function changeLeastFavoriteCustomer(leastFavoriteCustomer){
   leastFavoriteCustomer = 'Eric';
-}*/
+}
